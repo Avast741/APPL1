@@ -7,7 +7,7 @@ package PaintingShapes;
 
 /**
  *
- * @author afdalrdh
+ * @author User
  */
 
 //****************************************************** 
